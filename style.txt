@@ -1,0 +1,13 @@
+h1{
+  color:blue;
+  text-align:center;
+  text-decoration: underline;
+  
+}
+p{
+  color:red;
+}
+.AName{
+  color:BlueViolet;
+}
+color: #94D8E9;

@@ -1,0 +1,84 @@
+<html>
+  <head>
+    <title>My Interests</title>
+  </head>
+  <body>
+    <div>
+      <h1>This is My Interests </h1>
+    </div>
+    <div>
+      <h3>This page shows the<em> interests </em>of a user as they provide their input to the programmer</h3>
+      
+    </div>
+    <div>
+      <p><b>Learning from -</b></p>
+      <ul>
+        <li><a href="http://www.dukelearntoprogram.com/" target="blank_"><img src="https://www.dukelearntoprogram.com//common/images/dukelogovert.png" width="6%"/></a></li>
+    <br> <li> <a href="https://www.coursera.org/programs/srmist-ramapuram-on-coursera-sktfh">
+      
+      
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRoir2DgG6HA2SNh1xEqTv-eu1l2CwiGTgxag&usqp=CAU" width=120/></a></li>
+        <br></ul>
+      <b><p>My Top 5 Anime-</p></b>
+      <ol>
+        
+        <li class="AName">Naruto</li>
+        <img src="https://www.anime-planet.com/images/anime/covers/1131.jpg?t=1579136379" width="15%"/>
+        <li class="AName">Death Note</li>
+                <img src="https://m.media-amazon.com/images/M/MV5BODkzMjhjYTQtYmQyOS00NmZlLTg3Y2UtYjkzN2JkNmRjY2FhXkEyXkFqcGdeQXVyNTM4MDQ5MDc@._V1_FMjpg_UX1000_.jpg " width="15%"/>
+ 
+        <li class="AName">Jujutsu Kaisen</li>
+        <img src="https://m.media-amazon.com/images/M/MV5BNGY4MTg3NzgtMmFkZi00NTg5LWExMmEtMWI3YzI1ODdmMWQ1XkEyXkFqcGdeQXVyMjQwMDg0Ng@@._V1_.jpg" width="15%"/>
+        <li class="AName">Demon Slayer</li>
+        <img src="https://m.media-amazon.com/images/M/MV5BODI2NjdlYWItMTE1ZC00YzI2LTlhZGQtNzE3NzA4MWM0ODYzXkEyXkFqcGdeQXVyNjU1OTg4OTM@._V1_.jpg" width="15%"/>
+        <li class="AName">One punch Man</li>
+        <img src="https://m.media-amazon.com/images/M/MV5BMTNmZDE2NDEtNTg3MS00OTE1LThlZGUtOGZkZTg0NTUyNGVmXkEyXkFqcGdeQXVyNTgyNTA4MjM@._V1_UY1200_CR85,0,630,1200_AL_.jpg" width="15%"/>
+        <h4>(well! I haven't watched that many anime XD)</h4>
+        </ol>
+      <b><p> Some best Anime Fights I have watched-</p></b>
+        <ul>
+          <li>Nauto Vs Pain</i>
+      <li>Saitama Vs Boros</li>
+      <li>Gojo Saturo Vs Jogo</li>
+      <li>Madara Vs Guy</li>
+      <li>Kakashi vs Zabuza</li>
+            </ul>
+    <b><p>Most Favourite Characters in Anime-</p></b>
+    <table>
+      <tr>
+        <th>Anime</th>
+        <th>1</th>
+        <th>2</th>
+        <th>3</th>
+    
+        </tr>
+      <tr>
+        <td><b>Naruto</b></td>
+        <td>Itachi</td>
+          <td>Kakashi</td>
+          <td>Obito</td>
+        </tr>
+      <tr>
+        <td><b>Death Note</b></td>
+        <td>Light</td>
+        <td>Lawliet</td>
+        <td>Ryuk</td>
+        </tr>
+      <tr>
+        <td><b>Jujutsu Kaisen</b></td>
+        <td>Sukuna</td>
+        <td>Gojo</td>
+        <td>Todo</td>
+        </tr>
+      <tr>
+        <td><b>Demon Slayer</b></td>
+        <td>Zenitsu</td>
+        <td>Rengoku</td>
+        <td>Giyu Tomioka</td>
+        </tr>
+        
+          
+      </table>
+  </body>
+</html>
+    
